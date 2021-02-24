@@ -1,5 +1,5 @@
 import random
 
-num = random.randrange(7)
+num = random.randrange(1, 7)
 
-print(num)
+print(f'Roll is {num}')
